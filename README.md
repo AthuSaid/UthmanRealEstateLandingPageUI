@@ -1,7 +1,7 @@
 ![mockup](https://user-images.githubusercontent.com/85846854/180299314-8daef2ad-d145-4334-8a28-e50c001f127e.jpg)
 
 
-<h1 align="center">Minimal Real Estate Landing Page UI</h1>
+<h1 align="center">Uthman Real Estate Landing Page UI</h1>
 <h3 align="center">Built With Flutter</h3>
 
 <p align="center">Completely Responsive</p>
